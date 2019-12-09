@@ -1,2 +1,0 @@
-# inperspective-news
-InPerspective News
