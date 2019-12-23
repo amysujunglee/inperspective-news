@@ -2653,16 +2653,24 @@ h2.head,
   transition: all 0.2s ease-out;
 }
 
-.soc-list li .icon:hover {
+/* .soc-list li .icon:hover {
   background: #00aeff;
-}
+} */
 
 .soc-list .soc-icon-twitter {
   background: #00aced;
 }
 
+.soc-list .soc-icon-twitter:hover {
+  background: #00aeff;
+}
+
 .soc-list .soc-icon-facebook {
   background: #3b5998;
+}
+
+.soc-list .soc-icon-facebook:hover {
+  background: #365bab;
 }
 
 .soc-list .soc-icon-dribbble {
